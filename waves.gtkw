@@ -1,0 +1,42 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Fri Nov 13 21:52:34 2020
+[*]
+[dumpfile] "/home/jsousa/sandbox/ecomp-test/circuit.vcd"
+[dumpfile_mtime] "Fri Nov 13 21:50:09 2020"
+[dumpfile_size] 14818
+[savefile] "/home/jsousa/sandbox/ecomp-test/waves.gtkw"
+[timestart] 0
+[size] 1920 1055
+[pos] -1 -1
+*-15.159814 40000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] circuit_tb.
+[sst_width] 324
+[signals_width] 304
+[sst_expanded] 1
+[sst_vpaned_height] 296
+@200
+-TESTBENCH
+@28
+circuit_tb.clk
+circuit_tb.en
+@420
+circuit_tb.i
+@28
+circuit_tb.rst
+@22
+circuit_tb.x[31:0]
+circuit_tb.y[31:0]
+@200
+-CORE
+@22
+circuit_tb.c0.acc[31:0]
+@28
+circuit_tb.c0.clk
+circuit_tb.c0.en
+circuit_tb.c0.rst
+@22
+circuit_tb.c0.x[31:0]
+circuit_tb.c0.y[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
